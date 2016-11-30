@@ -1,0 +1,4 @@
+﻿  hospital.cpp
+c:\users\ahender\desktop\hospital.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahender\desktop\hospital.cpp(170): warning C4018: '<': signed/unsigned mismatch
+  Henderson_Project3.vcxproj -> C:\Users\ahender\Desktop\Henderson_Project3\Debug\Henderson_Project3.exe
